@@ -1,0 +1,24 @@
+
+    Title: OS Places API
+
+    Price: null
+
+
+    Description: 
+
+    With OS Places API you have direct access to rich address data for geocoding, postcode searching, form-filling and much more. Find UK addresses instantly online and be confident you're getting the most up-to-date information.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p>With OS Places API you can:</p>
+<ul>
+<li>Find a specific address accurately in the United Kingdom, Isle of Man, Jersey and Guernsey</li>
+<li>Find all addresses within a defined area</li>
+<li>Obtain the UPRN for addresses</li>
+<li>Geocode addresses (add the location element) and reverse geocode an address from its location</li>
+<li>Search both Royal Mail and Local Authority address datasets.</li>
+</ul>
+
+  

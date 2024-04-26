@@ -1,0 +1,17 @@
+
+    Title: Code-Point Open
+
+    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+
+
+    Description: 
+
+    An open dataset of all the current postcode units in Great Britain. Get started with geographical analysis, simple route planning and asset management.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p><strong>Link statistical and numeric datasets to your postcode data </strong>using ONS administrative unit codes and NHS health authority code attributes in each postcode</p>
+
+  

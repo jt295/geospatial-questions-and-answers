@@ -1,0 +1,20 @@
+
+    Title: Boundary-Line
+
+    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+
+
+    Description: 
+
+    From parliamentary constituencies to council wards, Boundary-Line maps every administrative boundary in detail for you. And what's more, it's completely free to download and use.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p><strong>Bring statistics to life, for academics or policy-makers</strong></p>
+<p>Boundary-Line brings the statistics in your reports to life. It lets you show differences between regions or councils using easy-to-read shaded maps.</p>
+<p><strong>Individual properties</strong></p>
+<p>When you're consulting on<strong> updating boundaries </strong>to take account of population change, Boundary-Line lets you show on a map where the line's being drawn, right down to the level of individual properties.</p>
+
+  

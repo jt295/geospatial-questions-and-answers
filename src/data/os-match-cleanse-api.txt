@@ -1,0 +1,24 @@
+
+    Title: OS Match & Cleanse API
+
+    Price: null
+
+
+    Description: 
+
+    With OS Match & Cleanse API, you’ll have instant, reliable search results to make removing duplications and cleansing address data easier for your business. Match, correct and validate UK addresses against authoritative data from AddressBase Premium.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p>Using OS Match &amp; Cleanse API, you can:</p>
+<ul>
+<li>Match a specific address accurately in the United Kingdom, Isle of Man, Jersey and Guernsey</li>
+<li>Cleanse partial or incorrect addresses</li>
+<li>Obtain the UPRN for matched addresses</li>
+<li>Search both Royal Mail and Local Authority address datasets</li>
+<li>Geocode addresses (add the location element)</li>
+</ul>
+
+  

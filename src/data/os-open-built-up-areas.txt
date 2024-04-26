@@ -1,0 +1,23 @@
+
+    Title: OS Open Built Up Areas
+
+    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+
+
+    Description: 
+
+    A dataset representing Built Up Areas of Great Britain designed to underpin statistical analysis and contribute to policy enablement across the public sector. 
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p>OS Open Built Up Areas enables policy makers and analysts, both nationally and locally, to conduct analysis corresponding to actual urban extents, for example, at a town, city, and village level.</p>
+<p>The product can also be used to:</p>
+<ul>
+<li>monitor changes related to built-up areas over time</li>
+<li>support demographic population density statistics</li>
+<li>provide insights into non-built-up areas that can be used to inform and calculate statistics, such as the impact of natural capital on house prices.</li>
+</ul>
+
+  

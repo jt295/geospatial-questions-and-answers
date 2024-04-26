@@ -1,0 +1,20 @@
+
+    Title: AddressBase Core
+
+    Price: null
+
+
+    Description: 
+
+    Local Authority data is at the heart of AddressBase Core. This data provides you with a complete address product; access to over 33 million addresses each unique referenced with the Unique Property Reference Number (UPRN) and property level coordinates.
+
+
+    Sample data: {"formPage":{"entryTitle":"Sample data: AddressBase Core","entryDescription":null,"entryThumbnail":null,"sys":{"id":"cabbc5af-d5d8-413d-b5eb-21b36e055a7b","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/addressbase-core/sample-data"}}} 
+
+
+    Use cases: <p><strong>Property classification</strong></p>
+<p>Making the most of the property classification attributes, you can quickly understand, locate and perform analysis on the type of addresses you want to interact with.</p>
+<p><strong>Easy cross-referencing</strong></p>
+<p>AddressBase Core makes it easier to locate, match and gain insights from other location data with the benefit of having  key identifiers referenced throughout. The Unique Property Reference Number (UPRN), Unique Street Reference Number (USRN) and Topographic Identifier (TOID) allow users to reference to other OS products.</p>
+
+  

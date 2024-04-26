@@ -1,0 +1,17 @@
+
+    Title: Points of Interest
+
+    Price: null
+
+
+    Description: 
+
+    Points of Interest is the most comprehensive, location-based directory of all public and privately-owned businesses, education and leisure services in Britain.
+
+
+    Sample data: {"formPage":{"entryTitle":"Sample data: Points of Interest","entryDescription":null,"entryThumbnail":null,"sys":{"id":"0e26e81b-c2d5-4912-b0a1-7d42d3986cbe","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/points-of-interest/sample-data"}}} 
+
+
+    Use cases: <ul><li>Accommodation</li><li>Eating and drinking</li><li>Commercial services</li><li>Attractions</li><li>Sport and entertainment</li><li>Education and health</li><li>Public infrastructure</li><li>Manufacturing and production</li><li>Retail</li><li>Transport</li></ul>
+
+  

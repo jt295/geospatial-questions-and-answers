@@ -1,0 +1,22 @@
+
+    Title: OS VectorMap District
+
+    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+
+
+    Description: 
+
+    OS VectorMap District is a simple vector dataset with a nominal scale of 1:25000 covering the whole of Great Britain that has been designed for creating graphical mapping. The product can be used as mapping in its own right or can be used to provide a flexible geographic context reference for customers’ overlay information.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p>The purpose of OS VectorMap District data is to support a wide range of customer applications that utilise geographic information. These may include:</p>
+<ul>
+<li>Backdrop mapping on your website</li>
+<li>Interactive web application development</li>
+<li>Displaying your business location</li>
+</ul>
+
+  

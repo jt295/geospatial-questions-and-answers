@@ -1,0 +1,29 @@
+
+    Title: AddressBase Premium
+
+    Price: null
+
+
+    Description: 
+
+    AddressBase Premium has over 40 million addresses and 100 million cross references as well as providing all the information relating to an address from creation to retirement.
+
+
+    Sample data: {"formPage":{"entryTitle":"Sample data: AddressBase Premium","entryDescription":null,"entryThumbnail":null,"sys":{"id":"461d455e-c6b0-4342-8c0b-e4ffb22f960c","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/addressbase-premium/sample-data"}}} 
+
+
+    Use cases: <p><strong>AddressBase Premium is best suited for a range of applications:</strong></p>
+<ul>
+<li>Utility demand planning</li>
+<li>Energy / utility switching</li>
+<li>Sales lead generation</li>
+<li>Fraud prevention</li>
+<li>Insurance underwriting</li>
+<li>Delivery / logistics</li>
+<li>Urban planning</li>
+<li>Asset maintenance</li>
+<li>Conveyancing</li>
+<li>CRM systems</li>
+</ul>
+
+  

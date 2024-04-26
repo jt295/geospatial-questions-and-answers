@@ -1,0 +1,28 @@
+
+    Title: OS Terrain 50
+
+    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+
+
+    Description: 
+
+    OS Terrain® 50 is an open height dataset of contours with spot heights, breaklines, coastline, lakes, ridges and formlines for Great Britain.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p>OS Terrain 50 can be used in conjunction with various Ordnance Survey digital products for analytical, modelling, planning and visual purposes.</p>
+<p><strong>These uses enable customers to undertake the following:</strong></p>
+<ul>
+<li>Asset/site management</li>
+<li>Signal propagation</li>
+<li>Environmental analysis</li>
+<li>High-level development</li>
+<li>Geological analysis</li>
+<li>Line of sight planning</li>
+<li>View shed modelling</li>
+<li>Using the product as a visual aid</li>
+</ul>
+
+  

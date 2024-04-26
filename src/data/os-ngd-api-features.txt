@@ -1,0 +1,25 @@
+
+    Title: OS NGD API – Features
+
+    Price: null
+
+
+    Description: 
+
+    Get started quickly and download the data you need, as and when you need it, powering your applications with rich, consistent and current geographic information.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p><strong>With OS NGD API - Features, you can:</strong></p>
+<ul>
+<li>Request specific features using spatial, attribute and/or time queries</li>
+<li>Interrogate highly detailed feature information</li>
+<li>Freely discover what data collection are available</li>
+<li>Explore the data schemas</li>
+<li>Request data in GeoJSON format</li>
+<li>Visualise Ordnance Survey data and apply your own styling.</li>
+</ul>
+
+  

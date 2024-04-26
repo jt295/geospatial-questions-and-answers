@@ -1,0 +1,17 @@
+
+    Title: OS MasterMap Sites Layer
+
+    Price: null
+
+
+    Description: 
+
+    OS MasterMap Sites Layer shows what people see in the real world, where the common view of something (such as a school) is not the address, the main building or the playing fields, but is the site as a whole.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: null
+
+  

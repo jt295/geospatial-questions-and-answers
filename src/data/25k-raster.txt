@@ -1,0 +1,19 @@
+
+    Title: 1:25 000 Scale Colour Raster
+
+    Price: null
+
+
+    Description: 
+
+    The digital alternative to our popular OS Explorer paper map series, this is a high-quality map of Great Britain, available in 10km square tiles.
+
+
+    Sample data: {"formPage":{"entryTitle":"Sample data: 1:25 000 Scale Colour Raster","entryDescription":null,"entryThumbnail":null,"sys":{"id":"cdbf3878-578a-4861-b38b-e2be4da697b9","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/25k-raster/sample-data"}}} 
+
+
+    Use cases: <p><strong>Helping ramblers and landowners</strong></p>
+<p>Along with a wide range of rights of way &ndash; footpaths, bridleways, National Trails and more &ndash; 1:25 000 Scale Colour Raster shows 'access land' that&rsquo;s open to all. Thanks to this level of detail, visitors can enjoy the countryside and keep out of trouble.</p>
+<p><strong>For emergency responders</strong>, this map can help you quickly and safely to incidents in remote areas. Field boundaries are included, along with contours, vegetation, scree and shoreline detail.</p>
+
+  

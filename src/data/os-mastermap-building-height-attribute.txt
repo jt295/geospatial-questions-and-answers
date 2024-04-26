@@ -1,0 +1,30 @@
+
+    Title: OS MasterMap Building Height Attribute
+
+    Price: null
+
+
+    Description: 
+
+    OS MasterMap Topography Layer – Building Height Attribute shows building height properties to help manage assets, plan works and visualise urban density.
+
+
+    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Building Height Attribute","entryDescription":null,"entryThumbnail":null,"sys":{"id":"56efb7c0-a783-4dc3-9206-269e54053cd2","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-building-height-attribute/sample-data"}}} 
+
+
+    Use cases: <p>It can be used to make simple 3D visualisations of buildings and structures to:</p>
+<ul>
+<li>model heat loss</li>
+<li>regulate requirements</li>
+<li>help with smart meter roll-out</li>
+<li>analyse line of sight for small cell planning</li>
+<li>manage overhead cable routing</li>
+<li>assist in planning and maintaining water pressure to high-rise properties</li>
+<li>visualise building designs early in the planning phase</li>
+<li>help in emergency planning and risk assessment</li>
+<li>model air pollution</li>
+<li>site solar panels</li>
+<li>visualise planning applications</li>
+</ul>
+
+  

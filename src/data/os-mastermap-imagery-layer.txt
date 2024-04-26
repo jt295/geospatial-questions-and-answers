@@ -1,0 +1,29 @@
+
+    Title: OS MasterMap Imagery Layer
+
+    Price: null
+
+
+    Description: 
+
+    Digital colour-balanced and corrected for geometric distortions (orthorectified) aerial photography of OS MasterMap® Imagery Layer gives you the real-world view.
+
+
+    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Imagery Layer","entryDescription":null,"entryThumbnail":null,"sys":{"id":"bef115a6-8f27-4103-9f87-40160285acb4","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-imagery-layer/sample-data"}}} 
+
+
+    Use cases: <p>OS MasterMap Imagery Layer can be used in applications often reducing the need for costly site visits:</p>
+<ul>
+<li>property insurance</li>
+<li>risk analysis</li>
+<li>asset management</li>
+<li>site evaluation</li>
+<li>land-use cover analysis</li>
+<li>agricultural land use and crops inventory</li>
+<li>property management and planning applications</li>
+<li>route planning and accessibility assessments</li>
+<li>location-based services</li>
+<li>vegetation studies and environmental analysis</li>
+</ul>
+
+  

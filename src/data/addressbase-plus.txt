@@ -1,0 +1,17 @@
+
+    Title: AddressBase Plus
+
+    Price: null
+
+
+    Description: 
+
+    Along with Royal Mail PAF data, AddressBase® Plus gives you up-to-date local authority addresses, multi-occupancy addresses and OS MasterMap TOID references.
+
+
+    Sample data: {"formPage":{"entryTitle":"Sample data: AddressBase Plus","entryDescription":null,"entryThumbnail":null,"sys":{"id":"336fe6ce-d72f-4ca2-a11a-fdd0921c30ec","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/addressbase-plus/sample-data"}}} 
+
+
+    Use cases: <p><strong>Individual address referencing for direct marketing teams </strong></p><p>Take your data analysis to the next level by referencing data to individual addresses (such as flats) rather than mail delivery points (houses divided into flats).</p><p><strong>Property classification</strong></p><p>Understanding the need to categorise properties, Ordnance Survey incorporated a four-level classification scheme that explains the function of each property.</p>
+
+  

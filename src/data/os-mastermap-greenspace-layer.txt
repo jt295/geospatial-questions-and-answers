@@ -1,0 +1,17 @@
+
+    Title: OS MasterMap Greenspace Layer
+
+    Price: null
+
+
+    Description: 
+
+    The OS MasterMap Greenspace Layer dataset has been designed for the public sector, it shows accessible and non-accessible greenspaces in urban areas, helping to support a wider set of government initiatives around health and the environment.
+
+
+    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Greenspace Layer","entryDescription":null,"entryThumbnail":null,"sys":{"id":"eb6a47d7-9767-4c87-ac47-47622e064832","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-greenspace-layer/sample-data"}}} 
+
+
+    Use cases: <p>This dataset has been designed for the public sector, it shows accessible and non-accessible greenspaces in urban areas, helping to support a wider set of government initiatives around health and the environment.</p>
+
+  

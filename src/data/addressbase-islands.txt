@@ -1,0 +1,19 @@
+
+    Title: AddressBase Islands
+
+    Price: null
+
+
+    Description: 
+
+    An addressing gazetteer offering full lifecycle information of a property for Northern Ireland, Isle of Man and the Channel Islands.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p><strong>Consistent property information</strong></p>
+<p>For major businesses offering household services nationwide, taking AddressBase Islands means you have consistent property information for Northern Ireland, the Channel Islands and the Isle of Man on tap from a single source.</p>
+<p><strong>Reliable records, in the busy call centre environment,</strong> your staff will always get results no matter where the address is located, and because our data's regularly updated, your records will be more reliable, too.</p>
+
+  

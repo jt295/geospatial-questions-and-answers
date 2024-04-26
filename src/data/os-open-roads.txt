@@ -1,0 +1,23 @@
+
+    Title: OS Open Roads
+
+    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+
+
+    Description: 
+
+    OS Open Roads is a high-level view of the road network, from motorways to country lanes in Great Britain. The links represent an approximate central alignment of the road carriageway and include roads classified by the National or Local Highway authority.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p>The OS Open Roads product may be used for applications such as, but not limited to:</p>
+<ul>
+<li>assigning information to the road network for both personal and business use</li>
+<li>high-level analytical queries, for example, how many kilometres of road there are in Great Britain, an individual country or a region</li>
+<li>simple drive time analysis, for example, what is within a 25-minute drive of any given location?</li>
+<li>identifying community problems and reporting back to a relevant authority.</li>
+</ul>
+
+  

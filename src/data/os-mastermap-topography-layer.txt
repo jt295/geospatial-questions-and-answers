@@ -1,0 +1,28 @@
+
+    Title: OS MasterMap Topography Layer
+
+    Price: null
+
+
+    Description: 
+
+    The OS MasterMap Topography layer is presented seamlessly with more than 500 Million real world objects – all uniquely identified - including roads, buildings, parks and waterways all managed and maintained by Ordnance Survey within one of the world’s largest spatial databases.​
+
+
+    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Topography Layer","entryDescription":null,"entryThumbnail":null,"sys":{"id":"eb3ab819-4a15-4ecb-bee2-1a745fe0bac9","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-topography-layer/sample-data"}}} 
+
+
+    Use cases: <p>The user may use the Topography Layer in a wide variety of ways, including:</p>
+<ul>
+<li>improving a user&rsquo;s data capture processes and the accuracy of a user&rsquo;s own derived data</li>
+<li>aiding the visual clarity of data and the visual interpretation of data</li>
+<li>achieving consistency and maintainable standards within geographic data holdings</li>
+<li>enhancing the queries that can be run on their data and so providing better information for decision making</li>
+<li>establishing a common reference between a user&rsquo;s own datasets and data they may wish to share with other organisations</li>
+<li>using the products in an integrated manner to derive additional information</li>
+<li>identifying and managing change in their area of interest</li>
+<li>creating historical views of their area of interest</li>
+</ul>
+<p>A common use for the product is by organisations who have their own GI and wish to examine it in relation to the real world around them. An example would be utility companies that have assets both at surface and below surface level. They frequently need to visit these assets, either for repair, maintenance or to add new assets. By viewing their infrastructure against the features in OS MasterMap Topography Layer, it will help their crews locate the assets, become familiar with the area before they leave their depot and allow them to provide a better user service by identifying those nearby premises that need to be notified about the works.</p>
+
+  

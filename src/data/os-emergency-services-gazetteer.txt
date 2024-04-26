@@ -1,0 +1,30 @@
+
+    Title: OS Emergency Services Gazetteer
+
+    Price: null
+
+
+    Description: 
+
+    The Emergency Services Gazetteer provides a national, consistent, and maintained view of the locations and names of places and objects.
+
+
+    Sample data: {"formPage":{"entryTitle":"Sample data: OS Emergency Services Gazetteer","entryDescription":null,"entryThumbnail":null,"sys":{"id":"037c2262-29a7-45b8-af1a-d20d8feae8fb","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-emergency-services-gazetteer/sample-data"}}} 
+
+
+    Use cases: <p><strong>Supporting in emergencies</strong></p>
+<p><strong> </strong>Using our ability to analyse and collate information the OS Emergency Services Gazetteer provides emergency services the data needed to estimate emergency response times.&nbsp;</p>
+<p><strong>Aiming to improve the recording of road traffic incidents</strong></p>
+<p>Analysing trends and patterns of road traffic collisions to help identify risk and support incident planning.</p>
+<p><strong>Working to improve public safety</strong></p>
+<p>The OS Emergency Services Gazetteer enables emergency responders to be more accurately informed, improving response times and public safety.</p>
+<p>&nbsp;</p>
+<ul>
+<li>Quick and accurate gazetteer searches</li>
+<li>Support incident reporting</li>
+<li>Enhanced data sharing across emergency services</li>
+<li>Supports incident analysis and modelling</li>
+<li>Operational reporting</li>
+</ul>
+
+  

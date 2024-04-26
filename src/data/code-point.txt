@@ -1,0 +1,25 @@
+
+    Title: Code-Point
+
+    Price: null
+
+
+    Description: 
+
+    Code-Point is a postcode locator with postcode units in Great Britain and Northern Ireland. Get started with geographical analysis, simple route planning and asset management using Code-Point.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p><strong>Code-Point data provides:</strong></p>
+<ul>
+<li>information about the number and type of postal delivery points in the postcode;</li>
+<li>a positional quality indicator (PQI), indicating the quality of the data underlying the Code-Point location coordinate (CPLC);</li>
+<li>the country indicator (either England, Scotland, Wales or Northern Ireland);</li>
+<li>the postcode type;</li>
+<li>the National Health Service region and area codes; and</li>
+<li>the local government county, district and ward codes.</li>
+</ul>
+
+  

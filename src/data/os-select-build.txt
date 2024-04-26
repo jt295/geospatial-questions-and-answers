@@ -1,0 +1,23 @@
+
+    Title: OS Select+Build
+
+    Price: null
+
+
+    Description: 
+
+    Introducing simple and direct access to the OS National Geographic Database (OS NGD). Get started quickly and download the data you need, as and when you need it, powering your applications with rich, consistent and current geographic information.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <ul>
+<li>Create multiple data packages from a single recipe.</li>
+<li>Delete a data package.</li>
+<li>Search through your organisation's recipes in the OS Select+Build Recipe Library using the recipe name, description, or content (i.e. themes, collections, or feature types).</li>
+<li>Search through your organisation's data packages in the Data packages list screen using the data package name, data package number, or product name.</li>
+<li>Collect your data package(s) via the OS Data Hub or the OS Downloads API.</li>
+</ul>
+
+  

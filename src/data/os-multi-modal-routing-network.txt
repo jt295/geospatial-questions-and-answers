@@ -1,0 +1,24 @@
+
+    Title: OS Multi-modal Routing Network
+
+    Price: null
+
+
+    Description: 
+
+    OS Multi-modal Routing Network is a fully connected network dedicated for the multi-modal routing of people and goods, designed for use in routing applications. It contains connectivity between different modal networks and key transport sites, along with road restriction information and speed data. 
+
+
+    Sample data: {"formPage":{"entryTitle":"Sample data: OS Multi-modal Routing Network","entryDescription":null,"entryThumbnail":null,"sys":{"id":"d256e20d-0937-462b-b76c-a9d1b11fb37e","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-multi-modal-routing-network/sample-data"}}} 
+
+
+    Use cases: <p>OS Multi-modal Routing Network can be used for journey planning, routing, navigation, and distance and travel time analysis, to support use cases such as:</p>
+<ul>
+<li>Safe routes to school planning</li>
+<li>Emergency services planning and response</li>
+<li>Transport planning</li>
+<li>Supporting Active Travel initiatives</li>
+<li>Planning of accessible citizen services</li>
+</ul>
+
+  

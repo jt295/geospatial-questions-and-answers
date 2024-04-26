@@ -1,0 +1,17 @@
+
+    Title: OS Linked Identifiers API
+
+    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+
+
+    Description: 
+
+    The OS Linked Identifiers API allows you to access the valuable relationships between properties, streets and OS MasterMap identifiers.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p>Web developers can create clickable interactive web app maps for selection of road or building features. Search for a street name and highlight all the properties that are on it or visualise open data such as accident counts, pollution levels or average vehicle speed data using OS Open Roads</p>
+
+  

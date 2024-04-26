@@ -1,0 +1,17 @@
+
+    Title: OS Downloads API
+
+    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+
+
+    Description: 
+
+    The OS Downloads API lets you script and automate your downloads of OS OpenData and OS Premium data. This can be a huge time saver and make your data pipelines more efficient.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p>Reduce your data management overheads and increase your time to value.</p>
+
+  

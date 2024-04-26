@@ -1,0 +1,29 @@
+
+    Title: OS MasterMap Highways Network - Roads
+
+    Price: null
+
+
+    Description: 
+
+    For all highways stakeholders, OS MasterMap Highways Network is data you can trust. It draws on authoritative sources and helps underpin the common operational picture that leads to faster, better decisions.
+
+
+    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Highways Network - Roads","entryDescription":null,"entryThumbnail":null,"sys":{"id":"ec11fe9e-3d08-41a6-9b2d-d93b69383a70","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-highways-network-roads/sample-data"}}} 
+
+
+    Use cases: <p>OS MasterMap Highways Network - Roads can be used for:</p>
+<ul>
+<li>source for legal road identifications</li>
+<li>costings or benefits of road policies</li>
+<li>calculating funding allocations</li>
+<li>evidence-based policy making</li>
+<li>journey and transport planning</li>
+<li>emergency service planning</li>
+<li>enforcement regulation</li>
+<li>traffic statistics</li>
+<li>school allocation</li>
+<li>smart cities</li>
+</ul>
+
+  

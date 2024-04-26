@@ -1,0 +1,20 @@
+
+    Title: AddressBase
+
+    Price: null
+
+
+    Description: 
+
+    AddressBase matches 29 million Royal Mail postal address to unique property reference numbers (UPRN), bringing a new dimension to the matched records.
+
+
+    Sample data: {"formPage":{"entryTitle":"Sample data: AddressBase","entryDescription":null,"entryThumbnail":null,"sys":{"id":"dc310439-b13a-443f-8d28-45f80c56b1bd","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/addressbase/sample-data"}}} 
+
+
+    Use cases: <p><strong>Reduce marketing costs</strong></p>
+<p>Our basic classifications &ndash; residential or commercial &ndash; will reduce the costs and increase the effectiveness of your direct marketing.</p>
+<p><strong>Confidence in data</strong></p>
+<p>In customer services, the need for accuracy is paramount. Have confidence in your front-line staff&rsquo;s ability to look up addresses on a database of millions, quickly and efficiently</p>
+
+  

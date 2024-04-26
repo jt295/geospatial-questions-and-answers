@@ -1,0 +1,17 @@
+
+    Title: OS Names API
+
+    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+
+
+    Description: 
+
+    OS Names API is a geographic directory giving you access to a straightforward, rapid lookup service: drilling down into the details we hold in our OS Open Names dataset.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p>You may be hunting for statistical data, analysing trends, or using details for purely consumer-oriented service. OS Names API also supports the discovery or identification and visualisation of a named place, geocoding, routing and navigation.</p>
+
+  

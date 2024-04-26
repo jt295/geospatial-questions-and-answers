@@ -1,0 +1,26 @@
+
+    Title: OS Open Linked Identifiers
+
+    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+
+
+    Description: 
+
+    OS Open Linked Identifiers provides authoritative relationship between UPRNs, USRNs, TOIDs and meta data to enable reliable matching; for greater data connectivity.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p>The OS Open Linked Identifiers product provides the valuable relationships between the following features found in OS MasterMap products (TopographicAreas limited to address and road features):</p>
+<ul>
+<li>TopographicArea* (TOID): OS MasterMap Topographic Layer</li>
+<li>RoadLink(TOID): OS MasterMap Highways Networks &ndash; Roads</li>
+<li>Road(TOID): OS MasterMap Highways Networks &ndash; Roads</li>
+<li>ORRoadLink/ORRoadNode(GUID): OS Open Roads</li>
+<li>Street(USRN): OS MasterMap Highways Networks &ndash; Roads</li>
+<li>BLPU(UPRN): AddressBase Premium</li>
+</ul>
+<p><sup>*restricted to address and road features.</sup></p>
+
+  

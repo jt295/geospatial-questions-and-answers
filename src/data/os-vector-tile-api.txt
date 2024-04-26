@@ -1,0 +1,26 @@
+
+    Title: OS Vector Tile API
+
+    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+
+
+    Description: 
+
+    Slick, quick vector maps for use as a customisable, contextual base, with a focus on web and mobile apps. Benefit from unrivalled levels of detail in your web or mobile app. OS Vector Tile API contains OS MasterMap Topography Layer including building heights.
+
+
+    Sample data: {"formPage":null} 
+
+
+    Use cases: <p>You can:</p>
+<ul>
+<li>Use as a basemap in GIS, web or mobile applications.</li>
+<li>View the whole of Great Britain in unrivalled detail.Seamlessly pan, zoom, pitch and tilt the map.</li>
+<li>Overlay your own data to give it geographic context.</li>
+<li>Trace over OS MasterMap Topography Layers (Premium Data) detailed geometries.</li>
+<li>Customise the map style and content to create the map you need.</li>
+<li>Access the maps in different projections - British National Grid and Web Mercator.</li>
+</ul>
+<p>OS Vector Tile API is great for cartographers, designers and developers to create slick, quick vector maps with all the detail of Ordnance Survey data.</p>
+
+  
