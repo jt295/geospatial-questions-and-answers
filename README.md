@@ -15,10 +15,24 @@ cp .env-sample .env
 Install dependencies and run the project
 
 ```bash
-npm i; npm run dev;
+npm i; npm run build; npm run start;
 ```
 
 Open [localhost](http://localhost:3000/) and ask some questions.
+
+To update the source material for the AI, you will need an API key for the Contensis delivery API.
+
+Once this has been added, you can refetch the data by running:
+
+```bash
+npm run getData
+```
+
+To run the project in development mode, use:
+
+```bash
+npm run dev
+```
 
 ### Example questions
 
@@ -42,12 +56,15 @@ The source data is fetched from a Content management system (CMS), and comprises
 - Short description
 - Sample data link (optional)
 - Some example use cases
+- Link to the product
 
 This source data can be found in the 'data' folder, where each product has its own txt file.
 
-The source material is then combined into a single trainig data file, and included before the query from the user.
+The source material is also combined into a single trainig data file, and included before the query from the user.
 
 The response from the AI is then streamed to the client, where the user can ask questions about the products.
+
+The output from the AI uses markdown, to better format this: the react-markdown library is used.
 
 ### Tech stack
 
