@@ -1,7 +1,9 @@
 
     Title: OS Open TOID
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-toid
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -9,9 +11,7 @@
     A TOID (Topographic Identifier) is a unique and persistent identifier for each and every feature found in OS MasterMap products. This dataset shows unique identifiers for a wide range of landscape and built environment features, with a generalised location, extracted from OS MasterMap products.
 
 
-    Sample data: {"formPage":null} 
+    
 
-
-    Use cases: null
-
+    
   

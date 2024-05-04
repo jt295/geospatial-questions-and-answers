@@ -1,15 +1,16 @@
 
     Title: OS Detailed Path Network
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-detailed-path-network
 
+    
 
     Description: 
 
     OS Detailed Path Network is a fully-connected, heighted path network covering Britain’s National Parks. Create off-road navigation apps, build exciting navigation websites and apps that help your users find great routes and stay on the right track.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: Detailed Path Network","entryDescription":null,"entryThumbnail":null,"sys":{"id":"b853f670-f555-4f89-bd23-63b2a2f48ca2","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-detailed-path-network/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-detailed-path-network/sample-data 
 
 
     Use cases: <p>The OS DPN product has been created to allow partners and developers to design and provide bespoke applications to provide routes within Great Britain's National Parks for pedestrians, cyclists and horse riders, including:</p>

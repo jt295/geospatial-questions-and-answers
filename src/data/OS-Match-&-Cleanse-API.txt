@@ -1,16 +1,16 @@
 
     Title: OS Match & Cleanse API
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-match-cleanse-api
 
+    
 
     Description: 
 
     With OS Match & Cleanse API, you’ll have instant, reliable search results to make removing duplications and cleansing address data easier for your business. Match, correct and validate UK addresses against authoritative data from AddressBase Premium.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>Using OS Match &amp; Cleanse API, you can:</p>
 <ul>

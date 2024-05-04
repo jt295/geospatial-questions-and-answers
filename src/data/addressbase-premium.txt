@@ -1,15 +1,16 @@
 
     Title: AddressBase Premium
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/addressbase-premium
 
+    
 
     Description: 
 
     AddressBase Premium has over 40 million addresses and 100 million cross references as well as providing all the information relating to an address from creation to retirement.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: AddressBase Premium","entryDescription":null,"entryThumbnail":null,"sys":{"id":"461d455e-c6b0-4342-8c0b-e4ffb22f960c","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/addressbase-premium/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/addressbase-premium/sample-data 
 
 
     Use cases: <p><strong>AddressBase Premium is best suited for a range of applications:</strong></p>

@@ -1,7 +1,9 @@
 
     Title: MiniScale
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/miniscale
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -9,9 +11,7 @@
     MiniScale is a free small-scale digital map of Great Britain in a single data file that clearly shows towns and cities, motorways, major roads, railways and airports.
 
 
-    Sample data: {"formPage":null} 
+    
 
-
-    Use cases: null
-
+    
   

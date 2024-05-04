@@ -1,15 +1,16 @@
 
     Title: 1:25 000 Scale Colour Raster
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/25k-raster
 
+    
 
     Description: 
 
     The digital alternative to our popular OS Explorer paper map series, this is a high-quality map of Great Britain, available in 10km square tiles.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: 1:25 000 Scale Colour Raster","entryDescription":null,"entryThumbnail":null,"sys":{"id":"cdbf3878-578a-4861-b38b-e2be4da697b9","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/25k-raster/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/25k-raster/sample-data 
 
 
     Use cases: <p><strong>Helping ramblers and landowners</strong></p>

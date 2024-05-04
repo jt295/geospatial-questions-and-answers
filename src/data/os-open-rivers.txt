@@ -1,7 +1,9 @@
 
     Title: OS Open Rivers
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-rivers
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -9,9 +11,7 @@
     A free dataset showing the high-level view of watercourses in Great Britain. OS Open Rivers GIS data contains over 144,000 km of water bodies and watercourses map data. These include freshwater rivers, tidal estuaries and canals.
 
 
-    Sample data: {"formPage":null} 
+    
 
-
-    Use cases: null
-
+    
   

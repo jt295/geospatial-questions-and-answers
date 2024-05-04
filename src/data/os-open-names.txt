@@ -1,7 +1,9 @@
 
     Title: OS Open Names
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-names
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -9,9 +11,7 @@
     OS Open Names is a comprehensive dataset of place names, roads numbers and postcodes for Great Britain.
 
 
-    Sample data: {"formPage":null} 
+    
 
-
-    Use cases: null
-
+    
   

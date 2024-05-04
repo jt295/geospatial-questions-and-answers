@@ -1,16 +1,16 @@
 
     Title: OS Select+Build
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-select-build
 
+    
 
     Description: 
 
     Introducing simple and direct access to the OS National Geographic Database (OS NGD). Get started quickly and download the data you need, as and when you need it, powering your applications with rich, consistent and current geographic information.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <ul>
 <li>Create multiple data packages from a single recipe.</li>

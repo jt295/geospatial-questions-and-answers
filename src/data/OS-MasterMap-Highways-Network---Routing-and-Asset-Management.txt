@@ -1,15 +1,16 @@
 
     Title: OS MasterMap Highways Network - Routing and Asset Management
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-mastermap-highways-network-routing-and-asset-management
 
+    
 
     Description: 
 
     For vehicle routing and navigation software providers, this data gives you all you need to get your users safely to their destinations: turn, height, weight and width restrictions – and even bollards and traffic calming.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Highways Network - Routing and Asset Management","entryDescription":null,"entryThumbnail":null,"sys":{"id":"dec780fa-c83d-4b81-9b6b-b8bf16d2bd15","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-highways-network-routing-and-asset-management/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-mastermap-highways-network-routing-and-asset-management/sample-data 
 
 
     Use cases: <p>OS MasterMap Highways Network - Routing and Asset Management can be used for:</p>

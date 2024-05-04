@@ -1,16 +1,16 @@
 
     Title: OS NGD API – Features
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-ngd-api-features
 
+    
 
     Description: 
 
     Get started quickly and download the data you need, as and when you need it, powering your applications with rich, consistent and current geographic information.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p><strong>With OS NGD API - Features, you can:</strong></p>
 <ul>

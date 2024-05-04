@@ -1,16 +1,16 @@
 
     Title: OS MasterMap Highways Network with speed data
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-mastermap-highways-network-with-speed-data
 
+    
 
     Description: 
 
     New OS MasterMap Highways Network with speed data contracts cannot be entered into after 29 March 2023. Supply of product updates to customers with existing contracts continues until March 2024. Average speed and indicative speed limits are now available to access directly from the OS National Geographic Database (OS NGD) Transport theme. These datasets are available under the PSGA and make it easier to analyse travel times and provide more accurate insight for safety and infrastructure policy decisions.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>OS MasterMap Highways Network with speed data can be used for speed data calculations and analysis:</p>
 <ul>

@@ -1,15 +1,16 @@
 
     Title: OS Emergency Services Gazetteer
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-emergency-services-gazetteer
 
+    
 
     Description: 
 
     The Emergency Services Gazetteer provides a national, consistent, and maintained view of the locations and names of places and objects.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS Emergency Services Gazetteer","entryDescription":null,"entryThumbnail":null,"sys":{"id":"037c2262-29a7-45b8-af1a-d20d8feae8fb","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-emergency-services-gazetteer/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-emergency-services-gazetteer/sample-data 
 
 
     Use cases: <p><strong>Supporting in emergencies</strong></p>

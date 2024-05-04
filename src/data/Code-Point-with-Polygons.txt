@@ -1,15 +1,16 @@
 
     Title: Code-Point with Polygons
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/code-point-polygons
 
+    
 
     Description: 
 
     With over 1.6 million postcodes all mapped out, Code-Point with Polygons is derived from AddressBase, the Ordnance Survey dataset that provides National Grid reference (NGref) coordinates for each postal delivery address in Great Britain.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: Code-Point with Polygons","entryDescription":null,"entryThumbnail":null,"sys":{"id":"665ecd57-d089-42cb-aa6a-f91ecd01ffc4","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/code-point-polygons/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/code-point-polygons/sample-data 
 
 
     Use cases: <p><strong>Manage your risks better</strong></p>

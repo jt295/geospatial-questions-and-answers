@@ -1,16 +1,16 @@
 
     Title: Code-Point
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/code-point
 
+    
 
     Description: 
 
     Code-Point is a postcode locator with postcode units in Great Britain and Northern Ireland. Get started with geographical analysis, simple route planning and asset management using Code-Point.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p><strong>Code-Point data provides:</strong></p>
 <ul>

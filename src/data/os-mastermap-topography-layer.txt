@@ -1,15 +1,16 @@
 
     Title: OS MasterMap Topography Layer
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-mastermap-topography-layer
 
+    
 
     Description: 
 
     The OS MasterMap Topography layer is presented seamlessly with more than 500 Million real world objects – all uniquely identified - including roads, buildings, parks and waterways all managed and maintained by Ordnance Survey within one of the world’s largest spatial databases.​
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Topography Layer","entryDescription":null,"entryThumbnail":null,"sys":{"id":"eb3ab819-4a15-4ecb-bee2-1a745fe0bac9","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-topography-layer/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-mastermap-topography-layer/sample-data 
 
 
     Use cases: <p>The user may use the Topography Layer in a wide variety of ways, including:</p>

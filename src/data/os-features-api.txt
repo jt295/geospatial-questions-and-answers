@@ -1,7 +1,9 @@
 
     Title: OS Features API
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-features-api
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -9,8 +11,7 @@
     Direct access to the most detailed geographic data for your analysis. Take full advantage of rich geometries and attributes to generate new insight. 
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>With OS Features API you can:</p>
 <p>Request specific feature types and their attributes using spatial or attribute queries.<br />Visualise and style Ordnance Survey data.<br />Interrogate highly detailed feature information, including OS MasterMap Topography Layer.<br />Create and apply your own styling preferences.</p>

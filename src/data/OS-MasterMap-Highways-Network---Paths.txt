@@ -1,8 +1,9 @@
 
     Title: OS MasterMap Highways Network - Paths
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-mastermap-highways-network-paths
 
+    
 
     Description: 
 
@@ -11,7 +12,7 @@
 You will see the true time it takes for the citizen to access existing services – as well as the new services required in the community.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Highways Network - Paths","entryDescription":null,"entryThumbnail":null,"sys":{"id":"2d8e6ced-18a9-49d4-ae0c-e0394d11ef3c","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-highways-network-paths/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-mastermap-highways-network-paths/sample-data 
 
 
     Use cases: <p>OS MasterMap Highways Network - Paths can be used for:</p><ul><li>costings or benefits of road and paths policies</li><li>calculating funding allocations</li><li>policy making and asset management</li><li>journey planning, routing, and navigation</li><li>emergency service planning</li><li>transport planning</li><li>delivery</li><li>enforcement regulation</li><li>school allocation</li><li>sustainable travel</li><li>planned works</li><li>projects on the resilience of infrastructure</li><li>smart cities</li></ul>

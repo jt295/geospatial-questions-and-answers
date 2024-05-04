@@ -1,7 +1,9 @@
 
     Title: OS Open Roads
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-roads
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -9,8 +11,7 @@
     OS Open Roads is a high-level view of the road network, from motorways to country lanes in Great Britain. The links represent an approximate central alignment of the road carriageway and include roads classified by the National or Local Highway authority.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>The OS Open Roads product may be used for applications such as, but not limited to:</p>
 <ul>

@@ -1,7 +1,30 @@
 
+    Title: 1:25 000 Scale Colour Raster
+
+    Link to product: https://www.ordnancesurvey.co.uk/products/25k-raster
+
+    
+
+    Description: 
+
+    The digital alternative to our popular OS Explorer paper map series, this is a high-quality map of Great Britain, available in 10km square tiles.
+
+
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/25k-raster/sample-data 
+
+
+    Use cases: <p><strong>Helping ramblers and landowners</strong></p>
+<p>Along with a wide range of rights of way &ndash; footpaths, bridleways, National Trails and more &ndash; 1:25 000 Scale Colour Raster shows 'access land' that&rsquo;s open to all. Thanks to this level of detail, visitors can enjoy the countryside and keep out of trouble.</p>
+<p><strong>For emergency responders</strong>, this map can help you quickly and safely to incidents in remote areas. Field boundaries are included, along with contours, vegetation, scree and shoreline detail.</p>
+
+  
+
+
     Title: 1:250 000 Scale Colour Raster
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/250k-raster
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -9,8 +32,7 @@
     1:250 000 Scale Colour Raster is a small-scale, digital, raster mapping product giving a regional view, similar in content and appearance to a typical road atlas.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p><strong>1:250,000 Scale Colour Raster product can aid with:</strong></p>
 <ul>
@@ -26,41 +48,18 @@
   
 
 
-
-
-    Title: 1:25 000 Scale Colour Raster
-
-    Price: null
-
-
-    Description: 
-
-    The digital alternative to our popular OS Explorer paper map series, this is a high-quality map of Great Britain, available in 10km square tiles.
-
-
-    Sample data: {"formPage":{"entryTitle":"Sample data: 1:25 000 Scale Colour Raster","entryDescription":null,"entryThumbnail":null,"sys":{"id":"cdbf3878-578a-4861-b38b-e2be4da697b9","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/25k-raster/sample-data"}}} 
-
-
-    Use cases: <p><strong>Helping ramblers and landowners</strong></p>
-<p>Along with a wide range of rights of way &ndash; footpaths, bridleways, National Trails and more &ndash; 1:25 000 Scale Colour Raster shows 'access land' that&rsquo;s open to all. Thanks to this level of detail, visitors can enjoy the countryside and keep out of trouble.</p>
-<p><strong>For emergency responders</strong>, this map can help you quickly and safely to incidents in remote areas. Field boundaries are included, along with contours, vegetation, scree and shoreline detail.</p>
-
-  
-
-
-
-
     Title: 1:50 000 Scale Colour Raster
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/50k-raster
 
+    
 
     Description: 
 
     The digital alternative to our popular OS Landranger paper map series, this is a high-quality map of Great Britain, available in 20km square tiles.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: 1:50 000 Scale Colour Raster","entryDescription":null,"entryThumbnail":null,"sys":{"id":"685ef03a-21f3-4e5e-b6b6-825cc4562d6f","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/50k-raster/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/50k-raster/sample-data 
 
 
     Use cases: <p><strong>For local planners,</strong> this map helps you spot brownfield sites ripe for development, and analyse the quality of local transport links. Railways and important roads are clearly colour-coded.</p>
@@ -69,19 +68,18 @@
   
 
 
-
-
     Title: AddressBase
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/addressbase
 
+    
 
     Description: 
 
     AddressBase matches 29 million Royal Mail postal address to unique property reference numbers (UPRN), bringing a new dimension to the matched records.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: AddressBase","entryDescription":null,"entryThumbnail":null,"sys":{"id":"dc310439-b13a-443f-8d28-45f80c56b1bd","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/addressbase/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/addressbase/sample-data 
 
 
     Use cases: <p><strong>Reduce marketing costs</strong></p>
@@ -92,19 +90,18 @@
   
 
 
-
-
     Title: AddressBase Core
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/addressbase-core
 
+    
 
     Description: 
 
     Local Authority data is at the heart of AddressBase Core. This data provides you with a complete address product; access to over 33 million addresses each unique referenced with the Unique Property Reference Number (UPRN) and property level coordinates.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: AddressBase Core","entryDescription":null,"entryThumbnail":null,"sys":{"id":"cabbc5af-d5d8-413d-b5eb-21b36e055a7b","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/addressbase-core/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/addressbase-core/sample-data 
 
 
     Use cases: <p><strong>Property classification</strong></p>
@@ -115,40 +112,18 @@
   
 
 
-
-
-    Title: undefined
-
-    Price: undefined
-
-
-    Description: 
-
-    undefined
-
-
-    Sample data: undefined 
-
-
-    Use cases: undefined
-
-  
-
-
-
-
     Title: AddressBase Islands
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/addressbase-islands
 
+    
 
     Description: 
 
     An addressing gazetteer offering full lifecycle information of a property for Northern Ireland, Isle of Man and the Channel Islands.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p><strong>Consistent property information</strong></p>
 <p>For major businesses offering household services nationwide, taking AddressBase Islands means you have consistent property information for Northern Ireland, the Channel Islands and the Isle of Man on tap from a single source.</p>
@@ -157,19 +132,18 @@
   
 
 
-
-
     Title: AddressBase Plus
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/addressbase-plus
 
+    
 
     Description: 
 
     Along with Royal Mail PAF data, AddressBase® Plus gives you up-to-date local authority addresses, multi-occupancy addresses and OS MasterMap TOID references.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: AddressBase Plus","entryDescription":null,"entryThumbnail":null,"sys":{"id":"336fe6ce-d72f-4ca2-a11a-fdd0921c30ec","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/addressbase-plus/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/addressbase-plus/sample-data 
 
 
     Use cases: <p><strong>Individual address referencing for direct marketing teams </strong></p><p>Take your data analysis to the next level by referencing data to individual addresses (such as flats) rather than mail delivery points (houses divided into flats).</p><p><strong>Property classification</strong></p><p>Understanding the need to categorise properties, Ordnance Survey incorporated a four-level classification scheme that explains the function of each property.</p>
@@ -177,19 +151,18 @@
   
 
 
-
-
     Title: AddressBase Premium
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/addressbase-premium
 
+    
 
     Description: 
 
     AddressBase Premium has over 40 million addresses and 100 million cross references as well as providing all the information relating to an address from creation to retirement.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: AddressBase Premium","entryDescription":null,"entryThumbnail":null,"sys":{"id":"461d455e-c6b0-4342-8c0b-e4ffb22f960c","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/addressbase-premium/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/addressbase-premium/sample-data 
 
 
     Use cases: <p><strong>AddressBase Premium is best suited for a range of applications:</strong></p>
@@ -209,31 +182,11 @@
   
 
 
-
-
-    Title: undefined
-
-    Price: undefined
-
-
-    Description: 
-
-    undefined
-
-
-    Sample data: undefined 
-
-
-    Use cases: undefined
-
-  
-
-
-
-
     Title: Boundary-Line
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/boundary-line
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -241,8 +194,7 @@
     From parliamentary constituencies to council wards, Boundary-Line maps every administrative boundary in detail for you. And what's more, it's completely free to download and use.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p><strong>Bring statistics to life, for academics or policy-makers</strong></p>
 <p>Boundary-Line brings the statistics in your reports to life. It lets you show differences between regions or councils using easy-to-read shaded maps.</p>
@@ -252,20 +204,18 @@
   
 
 
-
-
     Title: Code-Point
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/code-point
 
+    
 
     Description: 
 
     Code-Point is a postcode locator with postcode units in Great Britain and Northern Ireland. Get started with geographical analysis, simple route planning and asset management using Code-Point.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p><strong>Code-Point data provides:</strong></p>
 <ul>
@@ -280,11 +230,11 @@
   
 
 
-
-
     Title: Code-Point Open
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/code-point-open
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -292,27 +242,25 @@
     An open dataset of all the current postcode units in Great Britain. Get started with geographical analysis, simple route planning and asset management.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p><strong>Link statistical and numeric datasets to your postcode data </strong>using ONS administrative unit codes and NHS health authority code attributes in each postcode</p>
 
   
 
 
-
-
     Title: Code-Point with Polygons
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/code-point-polygons
 
+    
 
     Description: 
 
     With over 1.6 million postcodes all mapped out, Code-Point with Polygons is derived from AddressBase, the Ordnance Survey dataset that provides National Grid reference (NGref) coordinates for each postal delivery address in Great Britain.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: Code-Point with Polygons","entryDescription":null,"entryThumbnail":null,"sys":{"id":"665ecd57-d089-42cb-aa6a-f91ecd01ffc4","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/code-point-polygons/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/code-point-polygons/sample-data 
 
 
     Use cases: <p><strong>Manage your risks better</strong></p>
@@ -321,11 +269,11 @@
   
 
 
-
-
     Title: GB Counties - Past and Present
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/gb-counties-past-and-present
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -333,19 +281,17 @@
     Explore the county boundaries of Great Britain throughout time with our counties map, which shows historic and ceremonial counties.
 
 
-    Sample data: {"formPage":null} 
+    
 
-
-    Use cases: null
-
+    
   
-
-
 
 
     Title: GB Overview Maps
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/gb-overview
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -353,39 +299,17 @@
     GB Overview Maps is a simple, free to use overview map of Great Britain.
 
 
-    Sample data: {"formPage":null} 
+    
 
-
-    Use cases: null
-
+    
   
-
-
-
-
-    Title: undefined
-
-    Price: undefined
-
-
-    Description: 
-
-    undefined
-
-
-    Sample data: undefined 
-
-
-    Use cases: undefined
-
-  
-
-
 
 
     Title: MiniScale
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/miniscale
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -393,27 +317,24 @@
     MiniScale is a free small-scale digital map of Great Britain in a single data file that clearly shows towns and cities, motorways, major roads, railways and airports.
 
 
-    Sample data: {"formPage":null} 
+    
 
-
-    Use cases: null
-
+    
   
-
-
 
 
     Title: OS Detailed Path Network
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-detailed-path-network
 
+    
 
     Description: 
 
     OS Detailed Path Network is a fully-connected, heighted path network covering Britain’s National Parks. Create off-road navigation apps, build exciting navigation websites and apps that help your users find great routes and stay on the right track.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: Detailed Path Network","entryDescription":null,"entryThumbnail":null,"sys":{"id":"b853f670-f555-4f89-bd23-63b2a2f48ca2","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-detailed-path-network/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-detailed-path-network/sample-data 
 
 
     Use cases: <p>The OS DPN product has been created to allow partners and developers to design and provide bespoke applications to provide routes within Great Britain's National Parks for pedestrians, cyclists and horse riders, including:</p>
@@ -426,11 +347,11 @@
   
 
 
-
-
     Title: OS Downloads API
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-downloads-api
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -438,27 +359,25 @@
     The OS Downloads API lets you script and automate your downloads of OS OpenData and OS Premium data. This can be a huge time saver and make your data pipelines more efficient.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>Reduce your data management overheads and increase your time to value.</p>
 
   
 
 
-
-
     Title: OS Emergency Services Gazetteer
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-emergency-services-gazetteer
 
+    
 
     Description: 
 
     The Emergency Services Gazetteer provides a national, consistent, and maintained view of the locations and names of places and objects.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS Emergency Services Gazetteer","entryDescription":null,"entryThumbnail":null,"sys":{"id":"037c2262-29a7-45b8-af1a-d20d8feae8fb","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-emergency-services-gazetteer/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-emergency-services-gazetteer/sample-data 
 
 
     Use cases: <p><strong>Supporting in emergencies</strong></p>
@@ -479,11 +398,11 @@
   
 
 
-
-
     Title: OS Features API
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-features-api
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -491,8 +410,7 @@
     Direct access to the most detailed geographic data for your analysis. Take full advantage of rich geometries and attributes to generate new insight. 
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>With OS Features API you can:</p>
 <p>Request specific feature types and their attributes using spatial or attribute queries.<br />Visualise and style Ordnance Survey data.<br />Interrogate highly detailed feature information, including OS MasterMap Topography Layer.<br />Create and apply your own styling preferences.</p>
@@ -500,11 +418,11 @@
   
 
 
-
-
     Title: OS Linked Identifiers API
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-linked-identifiers-api
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -512,19 +430,18 @@
     The OS Linked Identifiers API allows you to access the valuable relationships between properties, streets and OS MasterMap identifiers.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>Web developers can create clickable interactive web app maps for selection of road or building features. Search for a street name and highlight all the properties that are on it or visualise open data such as accident counts, pollution levels or average vehicle speed data using OS Open Roads</p>
 
   
 
 
-
-
     Title: OS Maps API
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-maps-api
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -532,27 +449,24 @@
     Accurate, up-to-date maps that offer the most convenient way to add detailed OS data to your application. Benefit from unrivalled levels of detail in your GIS, web or mobile app. OS Maps API contains OS MasterMap Topography Layer, 1:25 000 Scale Colour Raster and more data layers.
 
 
-    Sample data: {"formPage":null} 
+    
 
-
-    Use cases: null
-
+    
   
-
-
 
 
     Title: OS MasterMap Building Height Attribute
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-mastermap-building-height-attribute
 
+    
 
     Description: 
 
     OS MasterMap Topography Layer – Building Height Attribute shows building height properties to help manage assets, plan works and visualise urban density.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Building Height Attribute","entryDescription":null,"entryThumbnail":null,"sys":{"id":"56efb7c0-a783-4dc3-9206-269e54053cd2","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-building-height-attribute/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-mastermap-building-height-attribute/sample-data 
 
 
     Use cases: <p>It can be used to make simple 3D visualisations of buildings and structures to:</p>
@@ -573,19 +487,18 @@
   
 
 
-
-
     Title: OS MasterMap Greenspace Layer
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-mastermap-greenspace-layer
 
+    
 
     Description: 
 
     The OS MasterMap Greenspace Layer dataset has been designed for the public sector, it shows accessible and non-accessible greenspaces in urban areas, helping to support a wider set of government initiatives around health and the environment.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Greenspace Layer","entryDescription":null,"entryThumbnail":null,"sys":{"id":"eb6a47d7-9767-4c87-ac47-47622e064832","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-greenspace-layer/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-mastermap-greenspace-layer/sample-data 
 
 
     Use cases: <p>This dataset has been designed for the public sector, it shows accessible and non-accessible greenspaces in urban areas, helping to support a wider set of government initiatives around health and the environment.</p>
@@ -593,12 +506,11 @@
   
 
 
-
-
     Title: OS MasterMap Highways Network - Paths
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-mastermap-highways-network-paths
 
+    
 
     Description: 
 
@@ -607,7 +519,7 @@
 You will see the true time it takes for the citizen to access existing services – as well as the new services required in the community.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Highways Network - Paths","entryDescription":null,"entryThumbnail":null,"sys":{"id":"2d8e6ced-18a9-49d4-ae0c-e0394d11ef3c","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-highways-network-paths/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-mastermap-highways-network-paths/sample-data 
 
 
     Use cases: <p>OS MasterMap Highways Network - Paths can be used for:</p><ul><li>costings or benefits of road and paths policies</li><li>calculating funding allocations</li><li>policy making and asset management</li><li>journey planning, routing, and navigation</li><li>emergency service planning</li><li>transport planning</li><li>delivery</li><li>enforcement regulation</li><li>school allocation</li><li>sustainable travel</li><li>planned works</li><li>projects on the resilience of infrastructure</li><li>smart cities</li></ul>
@@ -615,19 +527,18 @@ You will see the true time it takes for the citizen to access existing services 
   
 
 
-
-
     Title: OS MasterMap Highways Network - Roads
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-mastermap-highways-network-roads
 
+    
 
     Description: 
 
     For all highways stakeholders, OS MasterMap Highways Network is data you can trust. It draws on authoritative sources and helps underpin the common operational picture that leads to faster, better decisions.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Highways Network - Roads","entryDescription":null,"entryThumbnail":null,"sys":{"id":"ec11fe9e-3d08-41a6-9b2d-d93b69383a70","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-highways-network-roads/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-mastermap-highways-network-roads/sample-data 
 
 
     Use cases: <p>OS MasterMap Highways Network - Roads can be used for:</p>
@@ -647,19 +558,18 @@ You will see the true time it takes for the citizen to access existing services 
   
 
 
-
-
     Title: OS MasterMap Highways Network - Routing and Asset Management
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-mastermap-highways-network-routing-and-asset-management
 
+    
 
     Description: 
 
     For vehicle routing and navigation software providers, this data gives you all you need to get your users safely to their destinations: turn, height, weight and width restrictions – and even bollards and traffic calming.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Highways Network - Routing and Asset Management","entryDescription":null,"entryThumbnail":null,"sys":{"id":"dec780fa-c83d-4b81-9b6b-b8bf16d2bd15","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-highways-network-routing-and-asset-management/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-mastermap-highways-network-routing-and-asset-management/sample-data 
 
 
     Use cases: <p>OS MasterMap Highways Network - Routing and Asset Management can be used for:</p>
@@ -684,20 +594,18 @@ You will see the true time it takes for the citizen to access existing services 
   
 
 
-
-
     Title: OS MasterMap Highways Network with speed data
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-mastermap-highways-network-with-speed-data
 
+    
 
     Description: 
 
     New OS MasterMap Highways Network with speed data contracts cannot be entered into after 29 March 2023. Supply of product updates to customers with existing contracts continues until March 2024. Average speed and indicative speed limits are now available to access directly from the OS National Geographic Database (OS NGD) Transport theme. These datasets are available under the PSGA and make it easier to analyse travel times and provide more accurate insight for safety and infrastructure policy decisions.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>OS MasterMap Highways Network with speed data can be used for speed data calculations and analysis:</p>
 <ul>
@@ -711,19 +619,18 @@ You will see the true time it takes for the citizen to access existing services 
   
 
 
-
-
     Title: OS MasterMap Imagery Layer
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-mastermap-imagery-layer
 
+    
 
     Description: 
 
     Digital colour-balanced and corrected for geometric distortions (orthorectified) aerial photography of OS MasterMap® Imagery Layer gives you the real-world view.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Imagery Layer","entryDescription":null,"entryThumbnail":null,"sys":{"id":"bef115a6-8f27-4103-9f87-40160285acb4","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-imagery-layer/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-mastermap-imagery-layer/sample-data 
 
 
     Use cases: <p>OS MasterMap Imagery Layer can be used in applications often reducing the need for costly site visits:</p>
@@ -743,79 +650,53 @@ You will see the true time it takes for the citizen to access existing services 
   
 
 
-
-
     Title: OS MasterMap Networks - Water Layer
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-mastermap-networks-water-layer
 
+    
 
     Description: 
 
     OS MasterMap Networks - Water Layer provides a detailed centre line following the curve of the waterway precisely. It includes the coordinates of watercourse sources and where they meet, exactly.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Networks - Water Layer","entryDescription":null,"entryThumbnail":null,"sys":{"id":"ef58d6e2-8468-45da-8729-912a7528d198","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-networks-water-layer/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-mastermap-networks-water-layer/sample-data 
 
 
-    Use cases: null
-
+    
   
-
-
-
-
-    Title: undefined
-
-    Price: undefined
-
-
-    Description: 
-
-    undefined
-
-
-    Sample data: undefined 
-
-
-    Use cases: undefined
-
-  
-
-
 
 
     Title: OS MasterMap Sites Layer
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-mastermap-sites-layer
 
+    
 
     Description: 
 
     OS MasterMap Sites Layer shows what people see in the real world, where the common view of something (such as a school) is not the address, the main building or the playing fields, but is the site as a whole.
 
 
-    Sample data: {"formPage":null} 
+    
 
-
-    Use cases: null
-
+    
   
-
-
 
 
     Title: OS MasterMap Topography Layer
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-mastermap-topography-layer
 
+    
 
     Description: 
 
     The OS MasterMap Topography layer is presented seamlessly with more than 500 Million real world objects – all uniquely identified - including roads, buildings, parks and waterways all managed and maintained by Ordnance Survey within one of the world’s largest spatial databases.​
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Topography Layer","entryDescription":null,"entryThumbnail":null,"sys":{"id":"eb3ab819-4a15-4ecb-bee2-1a745fe0bac9","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-topography-layer/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-mastermap-topography-layer/sample-data 
 
 
     Use cases: <p>The user may use the Topography Layer in a wide variety of ways, including:</p>
@@ -834,20 +715,18 @@ You will see the true time it takes for the citizen to access existing services 
   
 
 
-
-
     Title: OS Match & Cleanse API
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-match-cleanse-api
 
+    
 
     Description: 
 
     With OS Match & Cleanse API, you’ll have instant, reliable search results to make removing duplications and cleansing address data easier for your business. Match, correct and validate UK addresses against authoritative data from AddressBase Premium.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>Using OS Match &amp; Cleanse API, you can:</p>
 <ul>
@@ -861,19 +740,18 @@ You will see the true time it takes for the citizen to access existing services 
   
 
 
-
-
     Title: OS Multi-modal Routing Network
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-multi-modal-routing-network
 
+    
 
     Description: 
 
     OS Multi-modal Routing Network is a fully connected network dedicated for the multi-modal routing of people and goods, designed for use in routing applications. It contains connectivity between different modal networks and key transport sites, along with road restriction information and speed data. 
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS Multi-modal Routing Network","entryDescription":null,"entryThumbnail":null,"sys":{"id":"d256e20d-0937-462b-b76c-a9d1b11fb37e","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-multi-modal-routing-network/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-multi-modal-routing-network/sample-data 
 
 
     Use cases: <p>OS Multi-modal Routing Network can be used for journey planning, routing, navigation, and distance and travel time analysis, to support use cases such as:</p>
@@ -888,11 +766,11 @@ You will see the true time it takes for the citizen to access existing services 
   
 
 
-
-
     Title: OS Names API
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-names-api
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -900,48 +778,42 @@ You will see the true time it takes for the citizen to access existing services 
     OS Names API is a geographic directory giving you access to a straightforward, rapid lookup service: drilling down into the details we hold in our OS Open Names dataset.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>You may be hunting for statistical data, analysing trends, or using details for purely consumer-oriented service. OS Names API also supports the discovery or identification and visualisation of a named place, geocoding, routing and navigation.</p>
 
   
 
 
+    Title: OS National Geographic Database
 
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-national-geographic-database
 
-    Title: undefined
-
-    Price: undefined
-
+    
 
     Description: 
 
-    undefined
+    The OS National Geographic Database is a single store of all Ordnance Survey’s authoritative data for Great Britain. 
 
 
-    Sample data: undefined 
+    
 
-
-    Use cases: undefined
-
+    
   
-
-
 
 
     Title: OS NGD API – Features
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-ngd-api-features
 
+    
 
     Description: 
 
     Get started quickly and download the data you need, as and when you need it, powering your applications with rich, consistent and current geographic information.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p><strong>With OS NGD API - Features, you can:</strong></p>
 <ul>
@@ -956,20 +828,18 @@ You will see the true time it takes for the citizen to access existing services 
   
 
 
-
-
     Title: OS NGD API – Tiles
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-ngd-api-tiles
 
+    
 
     Description: 
 
     Enhance your mapping applications with OS NGD API – Tiles. Get access to detailed and accurate OS NGD data and customisable styling to create versatile and interactive maps that can adapt to your needs.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <ul>
 <li>OS NGD API -Tiles is great for cartographers, designers and developers to create slick, quick vector maps with all the detail of Ordnance Survey data.</li>
@@ -979,11 +849,11 @@ You will see the true time it takes for the citizen to access existing services 
   
 
 
-
-
     Title: OS Open Built Up Areas
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-built-up-areas
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -991,8 +861,7 @@ You will see the true time it takes for the citizen to access existing services 
     A dataset representing Built Up Areas of Great Britain designed to underpin statistical analysis and contribute to policy enablement across the public sector. 
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>OS Open Built Up Areas enables policy makers and analysts, both nationally and locally, to conduct analysis corresponding to actual urban extents, for example, at a town, city, and village level.</p>
 <p>The product can also be used to:</p>
@@ -1005,11 +874,11 @@ You will see the true time it takes for the citizen to access existing services 
   
 
 
-
-
     Title: OS Open Greenspace
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-greenspace
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -1017,19 +886,17 @@ You will see the true time it takes for the citizen to access existing services 
     Find the location of public parks, playing fields, sports facilities, play areas, allotments and more with OS Open Greenspace.
 
 
-    Sample data: {"formPage":null} 
+    
 
-
-    Use cases: null
-
+    
   
-
-
 
 
     Title: OS Open Linked Identifiers
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-linked-identifiers
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -1037,8 +904,7 @@ You will see the true time it takes for the citizen to access existing services 
     OS Open Linked Identifiers provides authoritative relationship between UPRNs, USRNs, TOIDs and meta data to enable reliable matching; for greater data connectivity.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>The OS Open Linked Identifiers product provides the valuable relationships between the following features found in OS MasterMap products (TopographicAreas limited to address and road features):</p>
 <ul>
@@ -1054,33 +920,11 @@ You will see the true time it takes for the citizen to access existing services 
   
 
 
-
-
-    Title: OS OpenMap - Local
-
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
-
-
-    Description: 
-
-    OS Open Map – Local (OML) is one of the most detailed generalised open mapping products available and is
-designed to provide contextual mapping for your applications or web pages. It offers users a clear contextual
-view of the world whilst also enabling the undertaking of analytical activities.
-
-
-    Sample data: {"formPage":null} 
-
-
-    Use cases: null
-
-  
-
-
-
-
     Title: OS Open Names
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-names
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -1088,19 +932,17 @@ view of the world whilst also enabling the undertaking of analytical activities.
     OS Open Names is a comprehensive dataset of place names, roads numbers and postcodes for Great Britain.
 
 
-    Sample data: {"formPage":null} 
+    
 
-
-    Use cases: null
-
+    
   
-
-
 
 
     Title: OS Open Rivers
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-rivers
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -1108,19 +950,17 @@ view of the world whilst also enabling the undertaking of analytical activities.
     A free dataset showing the high-level view of watercourses in Great Britain. OS Open Rivers GIS data contains over 144,000 km of water bodies and watercourses map data. These include freshwater rivers, tidal estuaries and canals.
 
 
-    Sample data: {"formPage":null} 
+    
 
-
-    Use cases: null
-
+    
   
-
-
 
 
     Title: OS Open Roads
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-roads
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -1128,8 +968,7 @@ view of the world whilst also enabling the undertaking of analytical activities.
     OS Open Roads is a high-level view of the road network, from motorways to country lanes in Great Britain. The links represent an approximate central alignment of the road carriageway and include roads classified by the National or Local Highway authority.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>The OS Open Roads product may be used for applications such as, but not limited to:</p>
 <ul>
@@ -1142,11 +981,11 @@ view of the world whilst also enabling the undertaking of analytical activities.
   
 
 
-
-
     Title: OS Open TOID
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-toid
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -1154,19 +993,17 @@ view of the world whilst also enabling the undertaking of analytical activities.
     A TOID (Topographic Identifier) is a unique and persistent identifier for each and every feature found in OS MasterMap products. This dataset shows unique identifiers for a wide range of landscape and built environment features, with a generalised location, extracted from OS MasterMap products.
 
 
-    Sample data: {"formPage":null} 
+    
 
-
-    Use cases: null
-
+    
   
-
-
 
 
     Title: OS Open UPRN
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-uprn
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -1174,8 +1011,7 @@ view of the world whilst also enabling the undertaking of analytical activities.
     UPRNs are the authoritative identifier used to uniquely identify addressable locations in Great Britain. Essential for bringing property and address information together.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>OS Open UPRN enables users to:</p>
 <ul>
@@ -1186,11 +1022,11 @@ view of the world whilst also enabling the undertaking of analytical activities.
   
 
 
-
-
     Title: OS Open USRN
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-usrn
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -1198,8 +1034,7 @@ view of the world whilst also enabling the undertaking of analytical activities.
     A Unique Street Reference Number (USRN) is a unique and persistent identifier for every street, road, track, path, cycle track or cycle way in Great Britain.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>OS Open USRN enables users to:</p>
 <p>&bull; share information held against a USRN with a location &bull; link together information associated with USRNs</p>
@@ -1207,11 +1042,11 @@ view of the world whilst also enabling the undertaking of analytical activities.
   
 
 
-
-
     Title: OS Open Zoomstack
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-zoomstack
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -1219,8 +1054,7 @@ view of the world whilst also enabling the undertaking of analytical activities.
     Ordnance Survey's OS Open Zoomstack is an open vector basemap showing coverage of Great Britain from a national level, right down to street detail.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <ul>
 <li>Use as a basemap in GIS, interactive web maps or mobile apps</li>
@@ -1231,20 +1065,38 @@ view of the world whilst also enabling the undertaking of analytical activities.
   
 
 
+    Title: OS OpenMap - Local
+
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-map-local
+
+    Price: Price: Free for everyone
+
+
+    Description: 
+
+    OS Open Map – Local (OML) is one of the most detailed generalised open mapping products available and is
+designed to provide contextual mapping for your applications or web pages. It offers users a clear contextual
+view of the world whilst also enabling the undertaking of analytical activities.
+
+
+    
+
+    
+  
 
 
     Title: OS Places API
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-places-api
 
+    
 
     Description: 
 
     With OS Places API you have direct access to rich address data for geocoding, postcode searching, form-filling and much more. Find UK addresses instantly online and be confident you're getting the most up-to-date information.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>With OS Places API you can:</p>
 <ul>
@@ -1258,20 +1110,18 @@ view of the world whilst also enabling the undertaking of analytical activities.
   
 
 
-
-
     Title: OS Select+Build
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-select-build
 
+    
 
     Description: 
 
     Introducing simple and direct access to the OS National Geographic Database (OS NGD). Get started quickly and download the data you need, as and when you need it, powering your applications with rich, consistent and current geographic information.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <ul>
 <li>Create multiple data packages from a single recipe.</li>
@@ -1284,31 +1134,29 @@ view of the world whilst also enabling the undertaking of analytical activities.
   
 
 
-
-
     Title: OS Terrain 5
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-terrain-5
 
+    
 
     Description: 
 
     OS Terrain® 5 is our detailed digital terrain model (DTM) of Great Britain. It is available as a grid of heighted points and contours, both at five-metre intervals.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: Terrain 5","entryDescription":null,"entryThumbnail":null,"sys":{"id":"928260b6-9287-4ba4-a194-eb90a1da0f96","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-terrain-5/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-terrain-5/sample-data 
 
 
-    Use cases: null
-
+    
   
-
-
 
 
     Title: OS Terrain 50
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-terrain-50
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -1316,8 +1164,7 @@ view of the world whilst also enabling the undertaking of analytical activities.
     OS Terrain® 50 is an open height dataset of contours with spot heights, breaklines, coastline, lakes, ridges and formlines for Great Britain.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>OS Terrain 50 can be used in conjunction with various Ordnance Survey digital products for analytical, modelling, planning and visual purposes.</p>
 <p><strong>These uses enable customers to undertake the following:</strong></p>
@@ -1335,11 +1182,11 @@ view of the world whilst also enabling the undertaking of analytical activities.
   
 
 
-
-
     Title: OS Vector Tile API
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-vector-tile-api
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -1347,8 +1194,7 @@ view of the world whilst also enabling the undertaking of analytical activities.
     Slick, quick vector maps for use as a customisable, contextual base, with a focus on web and mobile apps. Benefit from unrivalled levels of detail in your web or mobile app. OS Vector Tile API contains OS MasterMap Topography Layer including building heights.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>You can:</p>
 <ul>
@@ -1364,11 +1210,11 @@ view of the world whilst also enabling the undertaking of analytical activities.
   
 
 
-
-
     Title: OS VectorMap District
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-vectormap-district
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -1376,8 +1222,7 @@ view of the world whilst also enabling the undertaking of analytical activities.
     OS VectorMap District is a simple vector dataset with a nominal scale of 1:25000 covering the whole of Great Britain that has been designed for creating graphical mapping. The product can be used as mapping in its own right or can be used to provide a flexible geographic context reference for customers’ overlay information.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>The purpose of OS VectorMap District data is to support a wide range of customer applications that utilise geographic information. These may include:</p>
 <ul>
@@ -1389,44 +1234,38 @@ view of the world whilst also enabling the undertaking of analytical activities.
   
 
 
-
-
     Title: OS VectorMap Local
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-vectormap-local
 
+    
 
     Description: 
 
     OS VectorMap Local enables customisable mapping with street level detail that is highly accurate, detailed and reliable.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS VectorMap Local","entryDescription":null,"entryThumbnail":null,"sys":{"id":"af2a9571-b701-475e-9c3f-df919989f85d","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-vectormap-local/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-vectormap-local/sample-data 
 
 
-    Use cases: null
-
+    
   
-
-
 
 
     Title: Points of Interest
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/points-of-interest
 
+    
 
     Description: 
 
     Points of Interest is the most comprehensive, location-based directory of all public and privately-owned businesses, education and leisure services in Britain.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: Points of Interest","entryDescription":null,"entryThumbnail":null,"sys":{"id":"0e26e81b-c2d5-4912-b0a1-7d42d3986cbe","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/points-of-interest/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/points-of-interest/sample-data 
 
 
     Use cases: <ul><li>Accommodation</li><li>Eating and drinking</li><li>Commercial services</li><li>Attractions</li><li>Sport and entertainment</li><li>Education and health</li><li>Public infrastructure</li><li>Manufacturing and production</li><li>Retail</li><li>Transport</li></ul>
 
   
-
-
-

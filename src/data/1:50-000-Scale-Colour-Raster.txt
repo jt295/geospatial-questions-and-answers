@@ -1,15 +1,16 @@
 
     Title: 1:50 000 Scale Colour Raster
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/50k-raster
 
+    
 
     Description: 
 
     The digital alternative to our popular OS Landranger paper map series, this is a high-quality map of Great Britain, available in 20km square tiles.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: 1:50 000 Scale Colour Raster","entryDescription":null,"entryThumbnail":null,"sys":{"id":"685ef03a-21f3-4e5e-b6b6-825cc4562d6f","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/50k-raster/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/50k-raster/sample-data 
 
 
     Use cases: <p><strong>For local planners,</strong> this map helps you spot brownfield sites ripe for development, and analyse the quality of local transport links. Railways and important roads are clearly colour-coded.</p>

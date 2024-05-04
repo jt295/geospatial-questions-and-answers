@@ -1,7 +1,9 @@
 
     Title: OS Open USRN
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-usrn
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -9,8 +11,7 @@
     A Unique Street Reference Number (USRN) is a unique and persistent identifier for every street, road, track, path, cycle track or cycle way in Great Britain.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>OS Open USRN enables users to:</p>
 <p>&bull; share information held against a USRN with a location &bull; link together information associated with USRNs</p>

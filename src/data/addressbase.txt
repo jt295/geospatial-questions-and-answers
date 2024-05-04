@@ -1,15 +1,16 @@
 
     Title: AddressBase
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/addressbase
 
+    
 
     Description: 
 
     AddressBase matches 29 million Royal Mail postal address to unique property reference numbers (UPRN), bringing a new dimension to the matched records.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: AddressBase","entryDescription":null,"entryThumbnail":null,"sys":{"id":"dc310439-b13a-443f-8d28-45f80c56b1bd","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/addressbase/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/addressbase/sample-data 
 
 
     Use cases: <p><strong>Reduce marketing costs</strong></p>

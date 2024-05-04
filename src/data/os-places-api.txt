@@ -1,16 +1,16 @@
 
     Title: OS Places API
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-places-api
 
+    
 
     Description: 
 
     With OS Places API you have direct access to rich address data for geocoding, postcode searching, form-filling and much more. Find UK addresses instantly online and be confident you're getting the most up-to-date information.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>With OS Places API you can:</p>
 <ul>

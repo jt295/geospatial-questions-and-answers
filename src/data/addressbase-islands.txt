@@ -1,16 +1,16 @@
 
     Title: AddressBase Islands
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/addressbase-islands
 
+    
 
     Description: 
 
     An addressing gazetteer offering full lifecycle information of a property for Northern Ireland, Isle of Man and the Channel Islands.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p><strong>Consistent property information</strong></p>
 <p>For major businesses offering household services nationwide, taking AddressBase Islands means you have consistent property information for Northern Ireland, the Channel Islands and the Isle of Man on tap from a single source.</p>

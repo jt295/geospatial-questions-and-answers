@@ -1,7 +1,9 @@
 
     Title: OS Open UPRN
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-open-uprn
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -9,8 +11,7 @@
     UPRNs are the authoritative identifier used to uniquely identify addressable locations in Great Britain. Essential for bringing property and address information together.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p>OS Open UPRN enables users to:</p>
 <ul>

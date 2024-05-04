@@ -1,7 +1,9 @@
 
     Title: 1:250 000 Scale Colour Raster
 
-    Price: {"entryTitle":"Price: Free for everyone","entryDescription":null,"entryThumbnail":null,"sys":{"id":"8c1b03a7-51ef-43e5-b95d-d08d227e93f9","language":"en-GB","contentTypeId":"metaPrice","dataFormat":"entry","uri":null}}
+    Link to product: https://www.ordnancesurvey.co.uk/products/250k-raster
+
+    Price: Price: Free for everyone
 
 
     Description: 
@@ -9,8 +11,7 @@
     1:250 000 Scale Colour Raster is a small-scale, digital, raster mapping product giving a regional view, similar in content and appearance to a typical road atlas.
 
 
-    Sample data: {"formPage":null} 
-
+    
 
     Use cases: <p><strong>1:250,000 Scale Colour Raster product can aid with:</strong></p>
 <ul>

@@ -1,15 +1,16 @@
 
     Title: OS MasterMap Imagery Layer
 
-    Price: null
+    Link to product: https://www.ordnancesurvey.co.uk/products/os-mastermap-imagery-layer
 
+    
 
     Description: 
 
     Digital colour-balanced and corrected for geometric distortions (orthorectified) aerial photography of OS MasterMap® Imagery Layer gives you the real-world view.
 
 
-    Sample data: {"formPage":{"entryTitle":"Sample data: OS MasterMap Imagery Layer","entryDescription":null,"entryThumbnail":null,"sys":{"id":"bef115a6-8f27-4103-9f87-40160285acb4","language":"en-GB","contentTypeId":"formEntry","dataFormat":"entry","uri":"/products/os-mastermap-imagery-layer/sample-data"}}} 
+    Link to form to get sample data: https://www.ordnancesurvey.co.uk/products/os-mastermap-imagery-layer/sample-data 
 
 
     Use cases: <p>OS MasterMap Imagery Layer can be used in applications often reducing the need for costly site visits:</p>
