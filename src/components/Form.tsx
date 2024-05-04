@@ -1,24 +1,23 @@
 "use client";
 
 import { useChat } from "ai/react";
+import ReactMarkdown from "react-markdown";
 
 export default function Form() {
   const { messages, input, handleInputChange, handleSubmit } = useChat();
 
   return (
     <div className="flex flex-col mt-auto items-center container mx-auto w-full h-full">
-      <div className="prose my-4">
+      <div className="prose my-4 w-full">
         {messages.map((m) => (
           <div
             key={m.id}
-            className={`whitespace-pre-wrap w-full ${
-              m.role === "user" ? "mt-8" : ""
-            }`}
+            className={`w-full ${m.role === "user" ? "mt-16" : ""}`}
           >
             <span className="font-semibold">
               {m.role === "user" ? "User: " : "AI: "}
             </span>
-            {m.content}
+            <ReactMarkdown>{m.content}</ReactMarkdown>
           </div>
         ))}
       </div>
